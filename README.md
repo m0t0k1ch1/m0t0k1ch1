@@ -1,1 +1,4 @@
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m0t0k1ch1&hide=html,css&layout=donut&langs_count=3)
+<h2>Skills</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
