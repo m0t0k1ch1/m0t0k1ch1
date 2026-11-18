@@ -7,7 +7,7 @@
   Activity by <code>rk200-markus[bot]</code> is my work, even though it doesn't show up in my contribution graph.
 </p>
 
-<h2 align="center">Skills (alphabetical order)</h2>
+<h2 align="center">Skills</h2>
 <div align="center">
   <a href="https://github.com/angular/angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="32" alt="Angular" /></a>
   &nbsp;&nbsp;
@@ -21,3 +21,6 @@
   &nbsp;&nbsp;
   <a href="https://github.com/microsoft/TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" /></a>
 </div>
+<p align="center">
+  <sub>(alphabetical order)</sub>
+</p>
