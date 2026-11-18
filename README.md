@@ -22,5 +22,5 @@
   <a href="https://github.com/microsoft/TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" /></a>
 </div>
 <p align="center">
-  <sub>(alphabetical order)</sub>
+  <sub>In alphabetical order</sub>
 </p>
